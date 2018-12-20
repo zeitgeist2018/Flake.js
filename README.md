@@ -4,5 +4,7 @@ Adding ```<script type="application/javascript" src="snow.js"></script>``` to yo
 
 You can configure various aspects like flake max size through the global variables at the top of the file.
 
+![alt text](https://raw.githubusercontent.com/zeitgeist2018/Flake.js/master/Flake.js.png "Flake.js screenshot")
+
 # Modifications
 Feel free to add, remove, modify or share this file as you wish. There is so much room for improvements and all are welcome.
